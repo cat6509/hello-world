@@ -6,4 +6,4 @@
 <h2> Section 6 - 46  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
 <h2> Section 6 - 47  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
 <h2> Section 6 - 47  Monday 08/09 - Final not work last time</h2>
-<h2> Section 6 - 47  tuesday08/10 - </h2>
+<h2> Section 6 - 47  08/10 - </h2>
