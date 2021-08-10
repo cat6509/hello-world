@@ -5,3 +5,4 @@
 <h2> Section 5 - 33  Deploy Using 2 ansible playbooks</h2>
 <h2> Section 6 - 46  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
 <h2> Section 6 - 47  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
+<h2> Section 6 - 47  Monday 08/09 - Final replacement CI and then CD</h2>
