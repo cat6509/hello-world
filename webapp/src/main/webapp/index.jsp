@@ -1,14 +1,6 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a container with ansible with SCM as a trigger </h2>
-<h2> Section 5 - 28  July 16, 2021</h2>
-<h2> Section 5 - 28  New #2</h2>
-<h2> Section 5 - 33  Deploy Using 2 ansible playbooks</h2>
-<h2> Section 6 - 46  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
-<h2> Section 6 - 47  Monday 08/09 - Deploy Kubernetes CI and then CD</h2>
-<h2> Section 6 - 47  Monday 08/09 - Final not work last time</h2>
-<h2> Section 6 - 47  08/10 - </h2>
-<<<<<<< HEAD
-<h2> Section 6 - 48  08/18 last lab- </h2>
 =======
 <h2> FINALLY - Congratulations </h2>
 <h2> FINALLY - Congratulations with Token 8/20</h2>
+<h2> my code on top of Master </h2>
