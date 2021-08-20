@@ -11,4 +11,4 @@
 <h2> Section 6 - 48  08/18 last lab- </h2>
 =======
 <h2> FINALLY - Congratulations </h2>
->>>>>>> da75656226c38f854f7cbcfdbdc3407f716f071d
+<h2> FINALLY - Congratulations with Token 8/20</h2>
